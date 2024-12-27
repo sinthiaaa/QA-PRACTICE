@@ -22,17 +22,17 @@ Client Reply: Yes!
 Do you want multiple language acceptance on the search option?
 Client Reply: No!
 
-Do you want the option to delete search history from the search toolbar by clicking on sign ìxî ?
+Do you want the option to delete search history from the search toolbar by clicking on sign ‚Äúx‚Äù ?
 Client Reply: Yes!
 
 If the user types products name wrong should there be the suggestion of the correct product name?
 Client Reply: Yes!
 
 
-If a user searches with a special character should it show an ìundefined characterî type message ?
+If a user searches with a special character should it show an ‚Äúundefined character‚Äù type message ?
 Client Reply: Yes!
 
-Do you want to show the products that are in discount or in sale to the customers by typing ìsaleî or ìdiscountî?
+Do you want to show the products that are in discount or in sale to the customers by typing ‚Äúsale‚Äù or ‚Äúdiscount‚Äù?
 Client Reply: Yes!
 
 
