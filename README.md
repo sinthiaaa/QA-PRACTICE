@@ -11,7 +11,7 @@ Write down the test cases according to your questions.
 # Q3|
 Let's say, your development team implemented the feature on the  Evershop site 
 ``` bash
-    git clone https://demo.evershop.io/ 
+    https://demo.evershop.io/ 
 ```
 
 Now execute your test case into the URL and generate a report.
